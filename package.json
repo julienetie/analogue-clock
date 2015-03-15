@@ -1,0 +1,18 @@
+{
+  "name": "analogue",
+  "version": "0.0.1",
+  "description": "Analogue Clock",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julienetie/analogue-clock.git"
+  },
+  "author": "Julien Etienne",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "webpack": "^1.7.3"
+  }
+}
